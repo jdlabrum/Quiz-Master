@@ -1,0 +1,13 @@
+C:\Users\ryukopron\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+C:\Users\ryukopron\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\ryukopron\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\ryukopron\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+C:\Users\ryukopron\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+C:\Users\ryukopron\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+C:\Users\ryukopron\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+C:\Users\ryukopron\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form1.resources
+C:\Users\ryukopron\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+C:\Users\ryukopron\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\QuizApp.vbproj.GenerateResource.Cache
+C:\Users\ryukopron\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\QuizApp.vbprojResolveAssemblyReference.cache
+C:\Users\ryukopron\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form2.resources
+C:\Users\ryukopron\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form3.resources

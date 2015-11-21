@@ -1,0 +1,13 @@
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Release\WindowsApplication6.exe.config
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Release\WindowsApplication6.exe
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Release\WindowsApplication6.pdb
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\bin\Release\WindowsApplication6.xml
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Release\WindowsApplication6.Form1.resources
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Release\WindowsApplication6.Form2.resources
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Release\WindowsApplication6.Form3.resources
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Release\WindowsApplication6.Resources.resources
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Release\QuizApp.vbproj.GenerateResource.Cache
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Release\WindowsApplication6.exe
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Release\WindowsApplication6.xml
+C:\Users\ryukopron\Documents\Visual Studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Release\WindowsApplication6.pdb
+C:\Users\ryukopron\documents\visual studio 2013\Projects\WindowsApplication6\WindowsApplication6\obj\Release\QuizApp.vbprojResolveAssemblyReference.cache

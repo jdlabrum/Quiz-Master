@@ -1,0 +1,144 @@
+﻿The quality of a language that allows a programmer to express a computation clearly, correctly, concisely, and quickly is called _____.
+efficiency
+orthogonality
+regularity
+writability
+1
+Which of the following is a functional language?
+Lisp
+Python
+ALGOL
+FORTRAN
+1
+Which of the following is an object-oriented language?
+Algol
+C++
+FORTRAN
+C
+2
+A language achieves ____ by avoiding special cases in the use of constructs.
+orthogonality
+generality
+efficiency
+uniformity
+2
+A language that allows the user to add features to it is said to have the property of ____.
+uniformity
+extensibility
+regularity
+reliability
+2
+A ____ specifies the syntax of a piece of code that expands to other standard code.
+compiler
+function
+macro
+procedure
+3
+C++ ____.
+is an object-oriented language
+is a functional type language
+is a logic type language
+is not widely used
+1
+Which of the following statements about functional programming languages is incorrect?
+In pure functional programming, there are no assignments
+In pure functional programming there are no loops
+In pure functional programming loops are replaced by recursive calls
+The value of a function depends on the order of evaluation of its parameters
+1
+To express symbols as a data type in Scheme, use the keyword ____.
+symbol
+quote
+form
+exclamation
+2
+Which of the following represents a list of data in Scheme?
+(3.1, 3.2, 3.3)
+(quote (3.1 3.2 3.3))
+(3.1; 3.2; 3.3)
+(quote (3.1, 3.2, 3.3))
+2
+Which of the following correctly assigns values to two variables and then multiplies them in the Scheme programming language?
+(let ((x 5) (y 3)) (* x y))
+(let (x 5) (y 3)) (* x y)
+let (x 5) (y 3) (* x y)
+(let (x 5 y 3) (* x y))
+1
+The ____ is used in Scheme to create a function.
+let special form
+lambda special form
+letrec special form
+procedure special form
+2
+Which of the following Scheme statements will insert the number 6 at the head of a list named L?
+(add 6 L)
+(hd 6 L)
+(insert 6 L)
+(cons 6 L)
+4
+Given a list L in Scheme with contents of (3 7 2 8). What will be returned if the command (cdr L) is executed?
+(8)
+(2 8)
+(3)
+(7 2 8)
+4
+Given a list L in Scheme with contents of ((x y) s (t)). What will be returned if the command (cdr (car L)) is executed?
+(x)
+(x y)
+(y)
+(t)
+3
+____ are statements that are assumed to be true and from which other true statements can be proved.
+Axioms
+Logical statements
+Predicates
+Universal statements
+1
+In the Horn clause a1 and a2 and a3 ® b, the variable b is called the ____.
+head
+tail
+body
+fact
+1
+In the Horn clause a1 and a2 and a3 ® b, the portion a1 and a2 and a3 is called the ____.
+head
+tail
+body
+query
+2
+____ is the process of pattern matching to make statements identical.
+Unification
+Instantiation
+Resolution
+Equalization
+1
+Variables set equal to patterns are said to be ____.
+unified
+initialized
+instantiated
+resolved
+3
+Prolog uses ____.
+lowercase for variable names, and uppercase for constants and functions
+uppercase for variable names, and lowercase for constants and functions
+lowercase for variable names and constants, and uppercase for functions
+uppercase for variable names and constants, and lowercase for functions
+4
+A list is written in Prolog using ____ to enclose the items.
+curly braces
+single quotes
+square brackets
+double quotes
+3
+To force evaluation of an arithmetic term in Prolog, you must use the built-in predicate ____.
+force
+equals
+evaluate
+is
+4
+To force Prolog to perform loops, we must force backtracking even when a solution is found by using the built-in predicate ____.
+is 
+parent
+fail
+repeat
+3
